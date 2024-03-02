@@ -26,7 +26,7 @@ function Header() {
                 className="text-white text-decoration-none"
                 style={{ margin: "0" }}
               >
-                Thomas Calle
+                Very john
               </Link>
               {/* <FontAwesomeIcon
                 icon={faChessKnight}

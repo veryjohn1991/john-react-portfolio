@@ -7,28 +7,18 @@ import "../style/Footer.css";
 const socials = [
   {
     name: "GitHub",
-    url: "https://github.com/ThomasCalle",
+    url: "https://github.com/veryjohn1991",
     icon: faGithub,
     color: "#5DE512",
   },
-  {
-    name: "YouTube",
-    url: "https://youtube.com/playlist?list=PLEtXru6ajuny6_PWo8rycRz7L8OPLpV3_&si=HCRJUr1pXSHm3t3T",
-    icon: faYoutube,
-    color: "#FF0000",
-  },
+  
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/thomas-calle/",
+    url: "https://www.linkedin.com/in/very-john/",
     icon: faLinkedin,
     color: "#2EACE8",
   },
-  {
-    name: "TikTok",
-    url: "https://www.tiktok.com/@thoscalle?lang=en",
-    icon: faTiktok,
-    color: "white",
-  },
+  
 ];
 
 // Footer component
@@ -62,7 +52,7 @@ const Footer = () => {
           ))}
         </section>
         <section className="form-footer">
-        <h5 className="designer-text">Designed with ⏳ by Thomas Calle</h5>
+        <h5 className="designer-text">Designed with ⏳ by very john</h5>
           <p>
           <h6 className="copyright-text">&copy; {new Date().getFullYear()} All rights reserved.</h6>
           </p>
